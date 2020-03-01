@@ -44,7 +44,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/23997</dc:source>
 		<dc:source>https://archive.org/details/eugeneonguinear00spalgoog</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">This seems to be the only full translation in PD: https://www.york.ac.uk/depts/maths/histstat/pml1/onegin/</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Eugene_Onegin</meta>
