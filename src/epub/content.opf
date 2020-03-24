@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/alexander-pushkin/eugene-onegin/henry-spalding</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-03-24T23:16:05Z</dc:date>
+		<meta property="dcterms:modified">2020-03-24T23:16:05Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,15 +39,15 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A jaded Russian fop’s disdain for the world catches up with him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Eugene Onegin is bored: bored of the city, of parties and of the superficial &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg social scene. So when a newly-deceased uncle leaves him his country mansion, he jumps at the chance to play the rural lord. There he meets his new neighbours Lenski, a young poet and stark contrast to Onegin’s affected nonchalance, and Tattiana, a dreamy but introverted romantic, and triggers a set of events with tragic consequences.&lt;/p&gt;
-			&lt;p&gt;Serialized over the course of seven years starting in 1825, Pushkin’s novel in verse was and is a huge influence on Russian literature. Its unusual verse structure combined with Pushkin’s own commentary on the social canvas of the time has meant that it has remained relevant and read to this day. &lt;i&gt;Eugene Onegine&lt;/i&gt; has been translated into many different languages, and into many different formats including successful operas and films. This edition is based on the public domain translation into English by Henry Spalding.&lt;/p&gt;
+			&lt;p&gt;Eugene Onegin is bored: bored of the city, of parties, and of the superficial St. Petersburg social scene. So when a newly-deceased uncle leaves him his country mansion, he jumps at the chance to play the rural lord. There he meets his new neighbours Lenski, a young poet and stark contrast to Onegin’s affected nonchalance, and Tattiana, a dreamy but introverted romantic, and triggers a set of events with tragic consequences.&lt;/p&gt;
+			&lt;p&gt;Serialized over the course of seven years starting in 1825, Pushkin’s novel in verse was and is a huge influence on Russian literature. Its unusual verse structure combined with Pushkin’s own commentary on the social canvas of the time has meant that it has remained relevant and read to this day. &lt;i&gt;Eugene Onegine&lt;/i&gt; has been translated into many different languages, and into many different formats including successful operas and films.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/23997</dc:source>
 		<dc:source>https://archive.org/details/eugeneonguinear00spalgoog</dc:source>
 		<meta property="se:production-notes">“Onéguine” changed to “Onegin” to match the more expected and modern transliteration; other names left as standard. This Gutenberg transcription seems to be the only full translation in PD: https://www.york.ac.uk/depts/maths/histstat/pml1/onegin/</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">34607</meta>
+		<meta property="se:reading-ease.flesch">59.64</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Eugene_Onegin</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/alexander-pushkin_eugene-onegin_henry-spalding</meta>
 		<dc:creator id="author">Alexander Pushkin</dc:creator>
@@ -82,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
