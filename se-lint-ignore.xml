@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="foreword.xhtml">
+		<ignore>
+			<code>t-012</code>
+			<reason>The noteref is inline prose, not an actual superscript noteref.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
