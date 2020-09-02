@@ -16,11 +16,6 @@ footer{
 	text-align: right;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
