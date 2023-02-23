@@ -59,7 +59,6 @@
 		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">Henry Spalding</dc:contributor>
 		<meta property="file-as" refines="#translator">Spalding, Henry</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">wpr</meta>
