@@ -63,7 +63,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2021115671</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">Caspar David Friedrich</dc:contributor>
 		<meta property="file-as" refines="#artist">Friedrich, Caspar David</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Caspar_David_Friedrich</meta>
