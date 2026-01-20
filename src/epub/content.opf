@@ -46,7 +46,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/23997</dc:source>
 		<dc:source>https://archive.org/details/eugeneonguinear00spalgoog</dc:source>
 		<meta property="se:production-notes">“Onéguine” changed to “Onegin” to match the more expected and modern transliteration; other names left as standard. This Gutenberg transcription seems to be the only full translation in PD: https://www.york.ac.uk/depts/maths/histstat/pml1/onegin/</meta>
-		<meta property="se:word-count">34386</meta>
+		<meta property="se:word-count">33915</meta>
 		<meta property="se:reading-ease.flesch">59.64</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Eugene_Onegin</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/alexander-pushkin_eugene-onegin_henry-spalding</meta>
