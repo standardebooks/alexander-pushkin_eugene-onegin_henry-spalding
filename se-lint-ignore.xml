@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="foreword.xhtml">
 		<ignore code="t-012">
+			<line>14</line>
 			<reason>The noteref is inline prose, not an actual superscript noteref.</reason>
 		</ignore>
 	</file>
