@@ -1,0 +1,1 @@
+“Onéguine” changed to “Onegin” to match the more expected and modern transliteration; other names left as standard. This Gutenberg transcription seems to be the only full translation in PD: https://www.york.ac.uk/depts/maths/histstat/pml1/onegin/
