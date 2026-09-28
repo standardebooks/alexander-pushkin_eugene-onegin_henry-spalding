@@ -54,7 +54,7 @@
 		<link href="https://github.com/standardebooks/alexander-pushkin_eugene-onegin_henry-spalding" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Alexander Pushkin</dc:creator>
 		<meta property="file-as" refines="#author">Pushkin, Alexander</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ru">Александр Сергеевич Пушкин</meta>
+		<meta property="alternate-script" refines="#author">Александр Сергеевич Пушкин</meta>
 		<meta property="schema:alternateName" refines="#author">Alexander Sergeyevich Pushkin</meta>
 		<link href="https://en.wikipedia.org/wiki/Alexander_Pushkin" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80036579.html" refines="#author" rel="schema:sameAs"/>
